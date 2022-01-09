@@ -14,3 +14,8 @@ Based on the outlook, I expect to learn about:
 - building a cryptocurrency
 - smart contracts
 - developing smart contracts
+
+### Learnings
+
+#### History of Blockchain
+The common consensus about the origin of the "blockchain" is attributed to Satoshi Nakamoto for his paper on [Bitcoin](https://bitcoin.org/bitcoin.pdf). The underlying cryptographic dynamics of the blockchain, i.e. of linked data blocks, already date back to 1991 by works of Stuart Haber and W. Scott Stornetta.
